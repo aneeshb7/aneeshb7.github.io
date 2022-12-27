@@ -1,2 +1,2 @@
 # Aneesh-Bulusu
-My personal website
+My personal website created using HTML and CSS

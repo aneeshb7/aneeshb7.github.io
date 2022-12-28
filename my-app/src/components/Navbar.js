@@ -25,7 +25,6 @@ function Navbar() {
       </div>
       <div className="links">
         <Link to="/"> Home </Link>
-        <Link to="C:\Users\anees\aneeshb7.github.io\my-app\src\Aneesh Bulusu Resume.pdf">Resume</Link>
         <Link to="/experience"> Experience </Link>
       </div>
     </div>

@@ -1,7 +1,7 @@
 import React from "react";
-import InstagramIcon from "@material-ui/icons/Instagram";
-import TwitterIcon from "@material-ui/icons/Twitter";
-import FacebookIcon from "@material-ui/icons/Facebook";
+import GithubIcon from "@material-ui/icons/GitHub";
+import EmailIcon from "@material-ui/icons/Email";
+
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import "../styles/Footer.css";
 
@@ -9,12 +9,11 @@ function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <InstagramIcon />
-        <TwitterIcon />
-        <FacebookIcon />
-        <LinkedInIcon />
+        <a href = "https://www.linkedin.com/in/aneesh-bulusu/"><LinkedInIcon/></a>
+        <a href = "mailto:aneesh.bulusu@gmail.com"><EmailIcon /></a>
+        <a href = "https://github.com/aneeshb7"><GithubIcon /></a>
       </div>
-      <p> &copy; 2022 pedrotech.com</p>
+      <p> &copy; Aneesh Bulusu</p>
     </div>
   );
 }

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.f855e6bc.css",
-    "main.js": "/react-gh-pages/static/js/main.a630680c.js",
-    "static/js/592.c6911fa6.chunk.js": "/react-gh-pages/static/js/592.c6911fa6.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.f855e6bc.css.map": "/react-gh-pages/static/css/main.f855e6bc.css.map",
-    "main.a630680c.js.map": "/react-gh-pages/static/js/main.a630680c.js.map",
-    "592.c6911fa6.chunk.js.map": "/react-gh-pages/static/js/592.c6911fa6.chunk.js.map"
+    "main.css": "/static/css/main.b95a224a.css",
+    "main.js": "/static/js/main.396d7935.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Aneesh Bulusu Resume.pdf": "/static/media/Aneesh Bulusu Resume.7c2de941208f10efbe77.pdf",
+    "index.html": "/index.html",
+    "main.b95a224a.css.map": "/static/css/main.b95a224a.css.map",
+    "main.396d7935.js.map": "/static/js/main.396d7935.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.a630680c.js"
+    "static/css/main.b95a224a.css",
+    "static/js/main.396d7935.js"
   ]
 }
